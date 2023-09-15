@@ -4,9 +4,11 @@ Automação de Ambientes Operacionais
 Um dos principais desafios para um bom gerenciamento de infraestrutura, é implementar
 automação para permitir produtividade aos times de administração de tecnologia, bem
 como, minimizar ações humanas nos ambientes dos clientes.
+
 O cliente “Acme Co.” possui um servidor centralizado de backup, o qual recebe arquivos
 de todos os demais servidores, move os dados para um volume temporário, para que
 deste volume os dados sejam copiados por uma ferramenta de backup externa.
+
 De forma a minimizar o nível de intervenção neste ambiente, você foi convocado a
 escrever um script (em Shell Script, Python ou qualquer outra tecnologia que preferir),
 para automatizar as seguintes ações:
